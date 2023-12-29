@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewYearCard</string>
+    <string name="new_year_text">С Новым Годом!!!</string>
+    <string name="music_text">Музыка!!!</string>
+</resources>
